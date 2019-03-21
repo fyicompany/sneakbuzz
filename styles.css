@@ -1049,7 +1049,8 @@ html {
     font-size: 24px;
   }
   .div-block-6 {
-    padding: 10px 10px 30px;
+    width: 100%;
+    padding: 10px 10px 20px;
   }
   .link-3 {
     -webkit-box-pack: center;
